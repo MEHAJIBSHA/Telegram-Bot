@@ -1,4 +1,4 @@
-### Termux Bot Telegram)
+### (Termux Bot Telegram)
 
 <p align="center">
 <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
@@ -7,41 +7,49 @@
 <a href="#"><img title="X BOT" src="https://img.shields.io/badge/Dark-Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/adimas999"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MEHAJIBSHA/Telegram-Bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/adimas999"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MFarelS/telegram-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
 
-### Tutorial)
+### (Tutorial)
 <p align="center">
 <img src="https://d.top4top.io/p_1866qt35i0.jpg" alt="JPG" width="200" height="280"/>
 </p>
-Search @BotFather in telegram
+
+
+###        (Search @BotFather in telegram)
+
 
 <p align="center">
 <img src="https://h.top4top.io/p_1866wfazl0.jpg" alt="JPG" width="200" height="280"/>
 </p>
-Click start
+
+
+### (Click start)
 
 <p align="center">
 <img src="https://f.top4top.io/p_18663efnr0.jpg" alt="JPG" width="200" height="280"/>
 </p>
-Click new bot
+
+### (Click new bot)
 
 <p align="center">
 <img src="https://b.top4top.io/p_1866hjlo30.jpg" alt="JPG" width="200" height="280"/>
 </p>
-enter the name you want
+
+### (enter the name you want)
 
 <p align="center">
 <img src="https://e.top4top.io/p_1866l11yc0.jpg" alt="JPG" width="200" height="280"/>
 </p>
-Enter username you want
+
+### (Enter username you want)
 
 <p align="center">
 <img src="https://e.top4top.io/p_1866geqlo0.jpg" alt="JPG" width="200" height="280"/>
@@ -49,31 +57,31 @@ Enter username you want
 
 
 
-### Install (termux)
+### (Install (termux)
 ````bash
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install nano && pkg install nano && pkg install
 ````
 
 
-### Install the dependencies)
+### (Install the dependencies)
 ````bash
 git clone https://github.com/MEHAJIBSHA/Telegram-Bot && cd Telegram-Bot && pkg install python && python install.py 
 ````
 
 
-### Usage)
+### (Usage)
 ````bash
 python start.py
 ````
 
 
-### Install (windows)
+### (Install (windows)
 ````bash
 npm install && npm install axios && npm install telegraf && npm install nodemon && nodemon bot.js && atau && node bot.js
 ````
 
 
-120+ Features)
+### (120+ Features)
 |  MAKER  |                                           YES |
 | :---------------------------------------------: | :-----------: |
 | Convert Video To MP3|✅|
