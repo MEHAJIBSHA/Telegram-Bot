@@ -1,4 +1,4 @@
-###       (Termux Telegram Bot)
+     ### (Termux Telegram Bot)
 
 <p align="center">
 <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
