@@ -1,4 +1,4 @@
-### (Termux Telegram Bot)
+###       (Termux Telegram Bot)
 
 <p align="center">
 <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
@@ -17,14 +17,15 @@
 
 
 
-### (Tutorial)
+###              (Tutorial)
+
 
 <p align="center">
 <img src="https://d.top4top.io/p_1866qt35i0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
 
-###        (Search @botfather In Telegram)
+###   (Search @botfather In Telegram)
 
 
 <p align="center">
@@ -32,13 +33,13 @@
 </p>
 
 
-### (Click Start)
+###            (Click Start)
 
 <p align="center">
 <img src="https://f.top4top.io/p_18663efnr0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
-### (Click New Bot)
+###          (Click New Bot)
 
 <p align="center">
 <img src="https://b.top4top.io/p_1866hjlo30.jpg" alt="JPG" width="200" height="280"/>
