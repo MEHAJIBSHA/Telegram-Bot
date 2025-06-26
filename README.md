@@ -1,4 +1,4 @@
-Termux Bot Telegram)
+### Termux Bot Telegram)
 
 <p align="center">
 <img src="https://d.top4top.io/p_1837luigd0.gif" alt="GIF" width="128" height="128"/>
@@ -6,6 +6,11 @@ Termux Bot Telegram)
 <p align="center">
 <a href="#"><img title="X BOT" src="https://img.shields.io/badge/Dark-Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="https://github.com/adimas999"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+
+
 <p align="center">
 <a href="https://github.com/adimas999"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -41,32 +46,28 @@ Enter username you want
 <p align="center">
 <img src="https://e.top4top.io/p_1866geqlo0.jpg" alt="JPG" width="200" height="280"/>
 </p>
-Copy the token
-And replace in here : 
-</p>
-(https://github.com/adimas999/telegram-bot/blob/428cdebb22cf0912cb32997ecd4d0e87401c77b2/bot.js#L24)
 
 
 
-Install (termux)
+### Install (termux)
 ````bash
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install nano && pkg install nano && pkg install
 ````
 
 
-Install the dependencies)
+### Install the dependencies)
 ````bash
 git clone https://github.com/MEHAJIBSHA/Telegram-Bot && cd Telegram-Bot && pkg install python && python install.py 
 ````
 
 
-Usage)
+### Usage)
 ````bash
 python start.py
 ````
 
 
-Install (windows)
+### Install (windows)
 ````bash
 npm install && npm install axios && npm install telegraf && npm install nodemon && nodemon bot.js && atau && node bot.js
 ````
