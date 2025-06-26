@@ -18,6 +18,7 @@
 
 
 ### (Tutorial)
+
 <p align="center">
 <img src="https://d.top4top.io/p_1866qt35i0.jpg" alt="JPG" width="200" height="280"/>
 </p>
@@ -58,30 +59,34 @@
 
 
 ### (Install (termux)
+
 ````bash
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install nano && pkg install nano && pkg install
 ````
 
 
 ### (Install the dependencies)
+
 ````bash
 git clone https://github.com/MEHAJIBSHA/Telegram-Bot && cd Telegram-Bot && pkg install python && python install.py 
 ````
 
 
 ### (Usage)
+
 ````bash
 python start.py
 ````
 
 
 ### (Install (windows)
+
 ````bash
 npm install && npm install axios && npm install telegraf && npm install nodemon && nodemon bot.js && atau && node bot.js
 ````
 
-
 ### (120+ Features)
+
 |  MAKER  |                                           YES |
 | :---------------------------------------------: | :-----------: |
 | Convert Video To MP3|✅|
