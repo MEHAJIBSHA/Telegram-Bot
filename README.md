@@ -62,14 +62,23 @@
 ### (Install Termux)
 
 ````bash
-pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install nano && pkg install nano && pkg install
+pkg update
+pkg upgrade
+pkg install python
+pkg install python2
+pkg install git
+pkg install nano
+pkg install nano
+pkg install
 ````
 
 
 ### (Install The Dependencies)
 
 ````bash
-git clone https://github.com/MEHAJIBSHA/Telegram-Bot && cd Telegram-Bot && pkg install python && python install.py 
+git clone https://github.com/MEHAJIBSHA/Telegram-Bot cd Telegram-Bot
+pkg install python
+python install.py 
 ````
 
 
@@ -83,7 +92,13 @@ python start.py
 ### (Install (Windows)
 
 ````bash
-npm install && npm install axios && npm install telegraf && npm install nodemon && nodemon bot.js && atau && node bot.js
+npm install
+npm install axios
+npm install telegraf
+npm install nodemon
+nodemon bot.js
+atau
+node bot.js
 ````
 
 ### (120+ Features)
