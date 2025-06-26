@@ -24,7 +24,7 @@
 </p>
 
 
-###        (Search @BotFather in telegram)
+###        (Search @botfather In Telegram)
 
 
 <p align="center">
@@ -32,25 +32,25 @@
 </p>
 
 
-### (Click start)
+### (Click Start)
 
 <p align="center">
 <img src="https://f.top4top.io/p_18663efnr0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
-### (Click new bot)
+### (Click New Bot)
 
 <p align="center">
 <img src="https://b.top4top.io/p_1866hjlo30.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
-### (enter the name you want)
+### (Enter The Name You Want)
 
 <p align="center">
 <img src="https://e.top4top.io/p_1866l11yc0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
-### (Enter username you want)
+### (Enter Username You Want)
 
 <p align="center">
 <img src="https://e.top4top.io/p_1866geqlo0.jpg" alt="JPG" width="200" height="280"/>
@@ -58,14 +58,14 @@
 
 
 
-### (Install (termux)
+### (Install Termux)
 
 ````bash
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install nano && pkg install nano && pkg install
 ````
 
 
-### (Install the dependencies)
+### (Install The Dependencies)
 
 ````bash
 git clone https://github.com/MEHAJIBSHA/Telegram-Bot && cd Telegram-Bot && pkg install python && python install.py 
@@ -79,7 +79,7 @@ python start.py
 ````
 
 
-### (Install (windows)
+### (Install (Windows)
 
 ````bash
 npm install && npm install axios && npm install telegraf && npm install nodemon && nodemon bot.js && atau && node bot.js
