@@ -57,6 +57,17 @@
 <img src="https://e.top4top.io/p_1866geqlo0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
+### (Update The system)
+
+````bash
+apt update
+apt upgrade -y
+pkg update 
+pkg upgrade -y
+pkg install python
+pkg install python3
+pkg install git
+````
 
 
 ### (Install Termux)
