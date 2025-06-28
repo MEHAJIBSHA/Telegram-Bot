@@ -76,7 +76,8 @@ pkg install
 ### (Install The Dependencies)
 
 ````bash
-git clone https://github.com/MEHAJIBSHA/Telegram-Bot cd Telegram-Bot
+git clone https://github.com/MEHAJIBSHA/Telegram-Bot
+cd Telegram-Bot
 pkg install python
 python install.py
 ````
