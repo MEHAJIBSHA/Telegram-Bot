@@ -18,7 +18,7 @@
 <a href="https://github.com/miftahganzz/Bot-Telegram"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MEHAJIBSHA/telegram-bot-main"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Xlaaf/termux-telegram-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 </p>
 <p align="center">
