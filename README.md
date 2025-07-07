@@ -22,8 +22,10 @@
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/severnake/Termux-Telegram-Bot-"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/TronUb/Tron"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/severnake/Termux-Telegram-Bot-"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github">
+  
+<p align="center">
+<a  href="https://github.com/TronUb/Tron"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 
 ### (Tutorial)
 
