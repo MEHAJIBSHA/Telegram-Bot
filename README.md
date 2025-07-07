@@ -10,12 +10,19 @@
 <a href="https://github.com/MEHAJIBSHA/Telegram-Bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-
 <p align="center">
 <a href="https://github.com/MFarelS/telegram-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
-
-
+</p>
+<p align="center">
+<a href="https://github.com/miftahganzz/Bot-Telegram"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/MEHAJIBSHA/telegram-bot-main"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+</p>
+<p align="center">
+<a href="https://github.com/techgod143/Wizard-MD"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 
 ### (Tutorial)
 
