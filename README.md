@@ -72,61 +72,19 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 <img src="https://e.top4top.io/p_1866geqlo0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
-### (Update The System)
-
 ````bash
-apt update
-apt upgrade -y
-pkg update 
-pkg upgrade -y
-pkg install python
-pkg install python3
-pkg install git
-````
-
-
-### (Install Termux)
-
-````bash
-pkg update
-pkg upgrade
-pkg install python
-pkg install python2
-pkg install git
-pkg install nano
-pkg install nano
-pkg install
+pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install git && pkg install python -y
 ````
 
 
 ### (Install The Dependencies)
 
 ````bash
-git clone https://github.com/MEHAJIBSHA/Telegram-Bot
-cd Telegram-Bot
-pkg install python
-python install.py
+git clone https://github.com/MEHAJIBSHA/Telegram-Bot && cd Telegram-Bot && pkg install python && python install.py && python start.py
 ````
 
 
-### (Usage)
 
-````bash
-python start.py
-````
-
-
-### (Install (Windows)
-
-````bash
-npm install
-npm install axios
-npm install telegraf
-npm install nodemon
-nodemon bot.js
-atau
-node bot.js
-````
 
 ### (120+ Features)
 
