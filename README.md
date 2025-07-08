@@ -72,6 +72,9 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 <img src="https://e.top4top.io/p_1866geqlo0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 
+### (Install (Termux)
+
+
 ````bash
 pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install git && pkg install python -y
 ````
