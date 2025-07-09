@@ -33,6 +33,19 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 <a  href="https://github.com/n3d1117/chatgpt-telegram-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 7-orange.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a  href="https://github.com/jithumon/tgbot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 8-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a  href="https://github.com/biisal/biisal-filter-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 9-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a  href="https://https://github.com/Jisshubot/Jisshu-filter-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 10-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a  href="https://github.com/Hrishi2861/Terabox-Downloader-Bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 11-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a  href="https://github.com/HA-Bots/Auto-Filter-Bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 12-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a  href="https://github.com/Validity101/biisal-filter-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 13-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a  href="https://github.com/MrMKN/PROFESSOR-BOT"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 13-orange.svg?style=for-the-badge&logo=github"></a>
+
 
 ### (Tutorial)
 
