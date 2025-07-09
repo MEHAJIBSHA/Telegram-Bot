@@ -31,6 +31,8 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 <a  href="https://github.com/TronUb/Tron"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 6-orange.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a  href="https://github.com/n3d1117/chatgpt-telegram-bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 7-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a  href="https://github.com/jithumon/tgbot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 7-orange.svg?style=for-the-badge&logo=github"></a>
 
 ### (Tutorial)
 
