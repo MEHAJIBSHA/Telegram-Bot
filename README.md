@@ -8,8 +8,6 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
   </a> 
 </div>
 
-###     (FORK AND STAR REPO)
-
 <p align="center">
   <a href="https://github.com/MEHAJIBSHA/Telegram-Bot/fork">
     <img title="_FORK TERMUX BOT" src="https://img.shields.io/badge/📁_FORK_TERMUX_BOT-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
