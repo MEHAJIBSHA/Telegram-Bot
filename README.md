@@ -8,7 +8,7 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
   </a> 
 </div>
 
-### (FORK AND STAR REPO)
+###     (FORK AND STAR REPO)
 
 <p align="center">
   <a href="https://github.com/MEHAJIBSHA/Telegram-Bot/fork">
